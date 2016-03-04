@@ -1,0 +1,19 @@
+70 155 80 213
+BROKEN 0 green
+CAREFL 70 green
+BUSY12 74 green
+BUSY23 75 green
+BUSY34 76 green
+ANGRY4 84 green
+ANGRY5 85 green
+ANGRY6 86 green
+VROOM 100 green
+AMBER 70 amber
+RED1 70 red
+RED2 75 red
+RED3 85 red
+RED999 86 red
+AMBER 99 amber
+1 111 broken
+111111 11 red
+IOU10U 10 red

@@ -1,0 +1,10 @@
+60 155 75 208
+TRJ893 60 green
+FUNKY 55 green
+XTRMN8 77 red
+AA10AA 58 amber
+A 68 amber
+MR155 53 red
+ICURMT 63 amber
+SMRTAS 84 green
+9999 48 broken
